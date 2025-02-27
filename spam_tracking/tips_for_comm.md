@@ -1,12 +1,12 @@
 # Tips for data
-1. YOU NEED THE MARKING FOR YOUR DATA
+### YOU NEED THE MARKING FOR YOUR DATA
 
 What means you need a thing like
 message (actually one message) - is or not spam-message (1 or 0)
 
 you should use .csv format, that is like
 
-{message<string>;is_spam<int>}
+{ message < string >;  is_spam < int >  }
 
 but more :)
 
